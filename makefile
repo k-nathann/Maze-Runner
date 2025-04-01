@@ -1,7 +1,7 @@
 # assignment name (generate executable with this name)
 TARGET = main
 # .cpp files that do not contain a main() function.
-SOURCES =
+SOURCES = 
 
 CPP       = g++ --std=c++11 -c
 CPPFLAGS   = -Wall -I. -g
