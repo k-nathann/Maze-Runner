@@ -14,7 +14,7 @@ maze.cpp – Functions to read the maze and determine if a path exists.
 maze1.txt / maze2.txt – Sample maze input files.
 README.md – Project documentation.
 
-🧪 Example Maze Input
+Example Maze Input
 
 File: maze1.txt
 
