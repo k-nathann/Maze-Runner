@@ -10,8 +10,8 @@ This project demonstrates how to use a stack data structure to navigate a maze b
 Project Structure
 
 main.cpp – Entry point, includes the maze solver and Location class.
-maze.cpp – Functions to read the maze and determine if a path exists.
-maze1.txt / maze2.txt – Sample maze input files.
+maze.cpp – Functions to read the maze and determine if a path exists./n
+maze1.txt / maze2.txt – Sample maze input files./n
 README.md – Project documentation.
 
 Example Maze Input
